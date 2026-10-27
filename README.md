@@ -13,6 +13,7 @@ Every refactoring here ships with tests that prove it did not change behaviour. 
 | [`python/`](python/) | 7 | **Extract Function** and a generator expression, with before/after equivalence tests |
 | [`cpp/`](cpp/) | 7 | **Templates** replacing duplicated overloads, with equivalence checks |
 | [`ai-prompts/`](ai-prompts/) | 8 | Copy-paste prompts for using AI coding assistants safely on legacy code |
+| [`REFERENCES.md`](REFERENCES.md) | All | Clickable list of every source cited in the book |
 | [`ERRATA.md`](ERRATA.md) | — | Corrections to the 1st edition |
 
 Each sample keeps the **before** and **after** versions side by side so you can compare them.
